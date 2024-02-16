@@ -1,0 +1,12 @@
+MyCounterApp/bin
+MyCounterApp/obj
+
+packages-microsoft-prod.deb
+
+counting_program/bin
+
+
+
+counter
+
+counting_program/target
